@@ -25,7 +25,7 @@ export const {
   theme: {
     colors: {
       /* ----------------------------- seed / Global ----------------------------- */
-      seed: '95 58% 26%',
+      seed: '120 100% 26%',
       Bg: '87 36% 95%',
       seedHue: '95',
       seedSaturation: '58%',
@@ -36,7 +36,7 @@ export const {
       seed10: 'hsla(101, 100%, 6%, 1)',
       seed20: 'hsla(95, 100%, 11%, 1)',
       seed30: 'hsla(93, 95%, 16%, 1)',
-      seed40: 'hsl(95, 58%, 26%)',
+      seed40: 'hsl(120 100% 26%)',
       seed50: 'hsla(95, 44%, 36%, 1)',
       seed80: 'hsla(205, 100%, 76%, 1)',
       seed90: 'hsl(94, 79%, 76%)',

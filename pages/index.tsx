@@ -229,7 +229,7 @@ const Home: NextPage = () => {
 			</StackCard>
 
 			<Inline css={{ position: 'fixed', right: '0px', bottom: '0px', padding: '4px 20px 20px 4px', gap: '10px' }}>
-				<ThemeButton onClick={toggleTheme}> Toggle Theme </ThemeButton>
+				{/* <ThemeButton onClick={toggleTheme}> Toggle Theme </ThemeButton> */}
 				<Btn secondary><Icns className='materialFont' css={{ marginRight: '2px', fontSize: '100%', }}>send</Icns>Share</Btn>
 				<Btn secondary><Icns className='materialFont' css={{ marginRight: '2px', fontSize: '100%', }}>search</Icns>Search</Btn>
 			</Inline>
