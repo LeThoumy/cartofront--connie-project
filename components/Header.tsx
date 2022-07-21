@@ -14,7 +14,7 @@ const NavWrapper = styled('div', {
 	fontFamily: 'monument-medium',
 	fontSize: '$md_is16',
 	backgroundColor: 'white',
-	color: 'hsl($seed)'
+	color: 'hsl($seed)',
 })
 
 const WrapperL = styled('div', {
