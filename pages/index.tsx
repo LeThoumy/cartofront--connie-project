@@ -134,7 +134,7 @@ const Home: NextPage = () => {
 
 	const { theme, setTheme } = useTheme();
 	const toggleTheme = () =>
-		setTheme(theme === 'green' ? 'blue' : 'green');
+		setTheme(theme === 'blue' ? 'green' : 'blue');
 
 	return (
 		<Container>
