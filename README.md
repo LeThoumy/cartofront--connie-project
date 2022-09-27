@@ -7,4 +7,4 @@
 
 Visit Link to staging here
 
-[![Staging Link](https://svgshare.com/i/jM7.svg)](https://cartofront-connie-project.vercel.app/)
+[![Staging Link](https://imgur.com/a/rcTbn8L)](https://cartofront-connie-project.vercel.app/)
